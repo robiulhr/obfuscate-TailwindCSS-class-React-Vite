@@ -1,8 +1,5 @@
-# React + Vite
+# obfuscate-TailwindCSS-class-React-Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo is the solution to obfuscate Tailwind CSS class names using PostCSS for the React project in Vite.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[stackoverflow answer](https://stackoverflow.com/a/78663160/19069528)
